@@ -20,11 +20,6 @@ function App() {
        <Works/>
        <Testimonials/>
        <Contact/>
-       <Intro/>
-       <Portfolio/>
-       <Works/>
-       <Testimonials/>
-       <Contact/>
 
      </div>
 
